@@ -1,1 +1,1 @@
-console.log("Hallow world i am in rahim yar khan");
+console.log("Hello world");
